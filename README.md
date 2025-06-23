@@ -49,18 +49,11 @@ Here are some of my key academic and personal projects:
 
 - 🔍 **Book Search Engine (Python)**  
   Search system for `.txt` books using tree-based indexing and query logic
-
----
-
-## 📈 GitHub Stats (Optional)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalibornikolic&layout=compact&theme=tokyonight)
-![Dalibor's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalibornikolic&show_icons=true&theme=tokyonight)
-
+  
 ---
 
 ## 📫 Contact
 
-- Email: **your.email@example.com**
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Currently open for internships, freelance projects, or collaborations!
+- Email: **dalenikolic03@gmail.com**
+- LinkedIn: / (for now)
+- Currently studying...
