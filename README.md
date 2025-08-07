@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Dalibor Nikolić
 
 🎓 I'm a Software Engineering student at FTN, Novi Sad — currently in my 2nd year.
-💡 I enjoy building projects in **Python**, **Java**, and **C++**, and exploring algorithms, game logic, and system simulations.
+💡 I enjoy building projects in **Java**, **C++** and **C#** and exploring algorithms, game logic, and system simulations.
 
 ---
 
