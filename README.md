@@ -46,10 +46,13 @@
 | 🎬 **Cinema Reservation System** | CLI app with user roles, ticket booking, and `pickle` serialization | Python |
 | 🏨 **Hotel Management App** | Java GUI app for reservations, user accounts, and data management | Java (Swing) |
 | 💼 **Course Management System** | Application with relational database, LINQ queries, and UML diagrams | C#, SQL |
+| 🧑‍🏫 **Language Learning Management System (USI)** | WPF application for managing language courses, exams, and users with full CRUD, filtering, and PDF report generation | C#, .NET (WPF), JSON |
 | ♟️ **Checkers Game** | Two-player logic-based board game | Python |
 | 🧭 **Minotaur Maze Escape** | Survival maze game with procedural generation and pathfinding | C++ |
 | 🌍 **Travel Agency Website** | Static site with destinations and user interaction | HTML, CSS, JS |
 | 🔍 **Book Search Engine** | Text-based search system using tree indexing and query logic | Python |
+| ⚙️ **Parallel Web Data Scraper (Intel TBB)** | Console-based parallel web scraper using Intel TBB for concurrent downloading and HTML analysis with thread-safe data structures | C++17/20, Intel TBB, libcurl |
+| 🗃️ **Relational Database Information System** | Full relational database system with ER modeling, normalization, and SQL schema + DML scripts for realistic queries and test data | SQL, Oracle SQL Developer, ER Modeling |
 
 ---
 
