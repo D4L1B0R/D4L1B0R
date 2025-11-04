@@ -22,9 +22,9 @@
 - Object-Oriented Programming (OOP)  
 - Basic AI logic, tree search, skip lists  
 - File I/O and serialization (`pickle`, `.txt`, `.bin`)  
-- **Relational Databases & SQL** — design, querying, and integration  
-- **UML Diagrams** and project organization  
-- **Team collaboration** and Git workflow  
+- Relational Databases & SQL — design, querying, and integration  
+- UML Diagrams and project organization  
+- Team collaboration and Git workflow  
 - CLI & GUI application design  
 - VS Code, IntelliJ IDEA, Visual Studio, terminal use  
 
@@ -55,17 +55,10 @@
 
 ## 📫 Contact
 
-📧 **Email:** [dalibor.nikolic@example.com](mailto:dalibor.nikolic@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/dalibor-nikolic](https://linkedin.com/in/dalibor-nikolic)  
-💻 **GitHub:** [github.com/DaliborNikolic](https://github.com/DaliborNikolic)
+- Email: **dalenikolic03@gmail.com**
+- LinkedIn: / (for now)
+- Currently studying...
 
 ---
 
 ⭐ *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
-
-
-## 📫 Contact
-
-- Email: **dalenikolic03@gmail.com**
-- LinkedIn: / (for now)
-- Currently studying...
