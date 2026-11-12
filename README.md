@@ -189,9 +189,6 @@ The project integrated five university courses into a single software developmen
   <a href="LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/D4L1B0R">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 <p align="center">
@@ -200,13 +197,13 @@ The project integrated five university courses into a single software developmen
 
 ---
 
-<table>
+<table align="center">
   <tr>
     <td width="110">
       <img src="https://cataas.com/cat/cute" width="100" alt="Cute cat">
     </td>
     <td>
-      <i><strong>"Code is like magic — it works until you try to explain why."</strong>strong></i>
+      <strong><i>"Code is like magic — it works until you try to explain why."</i></strong>
     </td>
   </tr>
 </table>
