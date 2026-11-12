@@ -203,7 +203,7 @@ The project integrated five university courses into a single software developmen
       <img src="https://cataas.com/cat/cute" width="100" alt="Cute cat">
     </td>
     <td>
-      <strong><i>"Code is like magic — it works until you try to explain why."</i></strong>
+      <strong><i>"Code is like a cat — unpredictable, independent, and occasionally breaks things."</i></strong>
     </td>
   </tr>
 </table>
