@@ -1,36 +1,62 @@
 # Dalibor Nikolić
 
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Dalibor Nikolic">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:172554,100:1D4ED8&height=180&section=header&text=Dalibor%20Nikoli%C4%87&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=Software%20Engineering%20Student&descAlignY=68&descSize=17" width="100%" alt="Profile banner" />
 </p>
 
-**Software Engineering Student | Full-Stack Development | Cloud Computing | Distributed Systems**
+<p align="center">
+  <strong>Software Engineering Student | Full-Stack Development</strong>
+</p>
 
-Software Engineering and Information Technologies (SIIT) student at the Faculty of Technical Sciences, University of Novi Sad.
+<p align="center">
+  Software Engineering and Information Technologies (SIIT) student at the Faculty of Technical Sciences, University of Novi Sad.
+</p>
 
-Interested in software architecture, backend development, distributed systems, cloud computing, cybersecurity, and intelligent applications. Experienced in developing applications across multiple technology stacks, working with relational databases, designing system architectures, and collaborating on team-based software projects.
+<p align="center">
+  Interested in software architecture, backend development, distributed systems, cloud computing, cybersecurity, and intelligent applications. Experienced in developing applications across multiple technology stacks, working with relational databases, designing system architectures, and collaborating on team-based software projects.
+</p>
 
 ---
 
 ## Technical Skills
 
-**Programming Languages**
+### Programming Languages
 
-Python · Java · C++ · C# · Go · SQL · JavaScript
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,go,js&theme=dark" alt="Python, Java, C++, C#, Go and JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
-**Frameworks & Technologies**
+### Frameworks & Technologies
 
-Spring Boot · Angular · .NET · WPF · Django · Cython · Android SDK · OpenCL · HTML5 · CSS3
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,angular,dotnet,django,html,css,androidstudio,opencv&theme=dark" alt="Frameworks and technologies" />
+</p>
 
-**Databases & Cloud**
+<p align="center">
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="WPF" />
+  <img src="https://img.shields.io/badge/Cython-242A2E?style=for-the-badge&logo=python&logoColor=white" alt="Cython" />
+  <img src="https://img.shields.io/badge/OpenCL-ED1C24?style=for-the-badge&logo=khronos&logoColor=white" alt="OpenCL" />
+</p>
 
-PostgreSQL · Oracle SQL · H2 · AWS · Amazon S3
+### Databases & Cloud
 
-**Tools & Development Environment**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws&theme=dark" alt="PostgreSQL, MySQL and AWS" />
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" />
+  <img src="https://img.shields.io/badge/H2-1E90FF?style=for-the-badge&logoColor=white" alt="H2 Database" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+</p>
 
-Git · GitHub · IntelliJ IDEA · Visual Studio · VS Code · Android Studio · Figma · Trello · AWS CDK
+### Tools & Development Environment
 
-**Core Competencies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,visualstudio,vscode,androidstudio,figma,aws&theme=dark" alt="Development tools" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/AWS_CDK-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CDK" />
+</p>
+
+### Core Competencies
 
 - Object-Oriented Programming and Software Design
 - Data Structures and Algorithms
@@ -83,7 +109,11 @@ The project integrated five university courses into a single software developmen
 - Git-based version control and team collaboration.
 - Integration and testing across backend, web, and mobile components.
 
-**Repository:** [GetGo — GitHub](https://github.com/D4L1B0R/GetGo_Uber-like_Application)
+<p align="center">
+  <a href="https://github.com/D4L1B0R/GetGo_Uber-like_Application">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="GetGo GitHub repository" />
+  </a>
+</p>
 
 ---
 
@@ -142,18 +172,26 @@ The project integrated five university courses into a single software developmen
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=D4L1B0R&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4L1B0R&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=D4L1B0R&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4L1B0R&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=D4L1B0R&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=D4L1B0R&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
 ## Contact
 
-**Email:** dalenikolic03@gmail.com
-
-**LinkedIn:** [LinkedIn Profile](LINKEDIN_URL)
+<p align="center">
+  <a href="mailto:dalenikolic03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/D4L1B0R">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
