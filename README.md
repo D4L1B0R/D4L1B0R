@@ -168,13 +168,15 @@ The project integrated five university courses into a single software developmen
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=D4L1B0R&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4L1B0R&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=D4L1B0R&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
 </p>
+
+<a href="https://gitscore.live/D4L1B0R">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/D4L1B0R?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/D4L1B0R?style=card" alt="GitScore for D4L1B0R" />
+  </picture>
+</a>
 
 ---
 
@@ -195,3 +197,6 @@ The project integrated five university courses into a single software developmen
 <p align="center">
   <sub>Building, learning, and exploring through code.</sub>
 </p>
+
+---
+*"Code is like a cat — unpredictable, independent, and occasionally breaks things."*
