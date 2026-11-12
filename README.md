@@ -1,6 +1,10 @@
 # Dalibor Nikolić
 
-**Software Engineering Student | Full-Stack Development**
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Dalibor Nikolic">
+</p>
+
+**Software Engineering Student | Full-Stack Development | Cloud Computing | Distributed Systems**
 
 Software Engineering and Information Technologies (SIIT) student at the Faculty of Technical Sciences, University of Novi Sad.
 
@@ -10,23 +14,23 @@ Interested in software architecture, backend development, distributed systems, c
 
 ## Technical Skills
 
-### Programming Languages
+**Programming Languages**
 
 Python · Java · C++ · C# · Go · SQL · JavaScript
 
-### Frameworks & Technologies
+**Frameworks & Technologies**
 
-Spring Boot · Angular · .NET · WPF · Django · Android SDK · HTML5 · CSS3
+Spring Boot · Angular · .NET · WPF · Django · Cython · Android SDK · OpenCL · HTML5 · CSS3
 
-### Databases & Cloud
+**Databases & Cloud**
 
-PostgreSQL · Oracle SQL · H2 · Amazon Web Services (AWS) · Amazon S3
+PostgreSQL · Oracle SQL · H2 · AWS · Amazon S3
 
-### Tools & Development Environment
+**Tools & Development Environment**
 
 Git · GitHub · IntelliJ IDEA · Visual Studio · VS Code · Android Studio · Figma · Trello · AWS CDK
 
-### Core Competencies
+**Core Competencies**
 
 - Object-Oriented Programming and Software Design
 - Data Structures and Algorithms
@@ -35,6 +39,7 @@ Git · GitHub · IntelliJ IDEA · Visual Studio · VS Code · Android Studio · 
 - Relational Database Design and Normalization
 - Distributed Systems and Concurrent Programming
 - Machine Learning and Computer Vision
+- Computer Graphics and Parallel Computing
 - Cryptography and Public Key Infrastructure
 - Cloud Computing and Data Engineering
 - Software Testing and Quality Assurance
@@ -78,32 +83,34 @@ The project integrated five university courses into a single software developmen
 - Git-based version control and team collaboration.
 - Integration and testing across backend, web, and mobile components.
 
-**Repositories:** [Backend](REPO_LINK) · [Frontend](REPO_LINK) · [Android Application](REPO_LINK)
+**Repository:** [GetGo — GitHub](https://github.com/D4L1B0R/GetGo_Uber-like_Application)
 
 ---
 
 ## Other Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| AWS Cloud Data Pipeline | Cloud-based data engineering pipeline implementing Bronze, Silver, and Gold layers. Collects data from Hacker News and X, performs data cleaning and transformation, and generates aggregated datasets for statistical analysis using serverless processing and cloud storage. | Python, AWS, S3, Lambda, AWS CDK, EventBridge, Pandas |
-| PKI Certificate Management System | Client-server application for digital certificate lifecycle management, including certificate issuance, certificate-chain validation, revocation, authentication, and secure communication over HTTPS. | Java, Spring Boot, Angular, Bouncy Castle, RSA, X.509, JWT |
-| Distributed Sensor Monitoring System | Distributed temperature-monitoring architecture consisting of sensor clients, an ingestion service, a consensus service, and a notification service. Processes measurements, detects abnormal readings, records faults, and generates alerts across three severity levels. | C#, .NET, Distributed Systems |
-| Machine Learning & Neural Networks | Practical implementations and academic exercises covering neural network fundamentals, image classification, model development, and machine learning concepts. | Python, NumPy |
-| Computer Vision & Object Detection | Image processing and object detection tasks, including banana detection and image analysis. Explores image segmentation, morphological operations, and visual feature extraction. | Python, OpenCV, NumPy, Matplotlib |
-| Graph Explorer | Application combining data processing and graph-based visualization, with Python performance extensions and a web-based application layer. | Python, Django, Cython |
-| MojaUsluga — HCI Project | User interface and experience design for a service-oriented application, including interface prototyping and user interaction workflows. | Figma, UI/UX Design |
-| SCADA & Industrial Automation | C# application focused on industrial automation, system monitoring, and SCADA-related functionality. | C#, .NET, SCADA |
-| Cinema Reservation System | Command-line application supporting user roles, ticket reservations, and persistent data storage through serialization. | Python, Pickle |
-| Hotel Management Application | Desktop GUI application for hotel reservations, user accounts, and data management. | Java, Swing |
-| Course Management System | Application integrating relational database operations, LINQ queries, and UML-based system modeling. | C#, SQL, LINQ, UML |
-| Language Learning Management System | WPF application for managing language courses, exams, and users, featuring CRUD operations, filtering, and PDF report generation. | C#, .NET, WPF, JSON |
-| Checkers Game | Two-player board game implementing game rules, board representation, and turn-based game logic. | Python |
-| Minotaur Maze Escape | Maze-based game featuring procedural generation, navigation, and pathfinding algorithms. | C++ |
-| Travel Agency Website | Static website presenting travel destinations and basic interactive functionality. | HTML, CSS, JavaScript |
-| Book Search Engine | Text-based search application using tree-based indexing and query processing. | Python, Data Structures |
-| Parallel Web Data Scraper | Concurrent web scraping application using Intel TBB, parallel downloading, HTML analysis, and thread-safe data structures. | C++17/20, Intel TBB, libcurl |
-| Relational Database Information System | Database design and implementation involving ER modeling, relational normalization, SQL schema creation, DML operations, and realistic test queries. | SQL, Oracle SQL Developer |
+| Project | Description | Technologies | Repository |
+|---|---|---|---|
+| AWS Cloud Data Pipeline | Cloud-based data engineering pipeline implementing Bronze, Silver, and Gold layers. Collects data from Hacker News and X, performs data cleaning and transformation, and generates aggregated datasets for statistical analysis using serverless processing and cloud storage. | Python, AWS, S3, Lambda, AWS CDK, EventBridge, Pandas | Not linked yet |
+| PKI Certificate Management System | Client-server application for digital certificate lifecycle management, including certificate issuance, certificate-chain validation, revocation, authentication, and secure communication over HTTPS. | Java, Spring Boot, Angular, Bouncy Castle, RSA, X.509, JWT | Not linked yet |
+| Distributed Sensor Monitoring System | Distributed temperature-monitoring architecture consisting of sensor clients, an ingestion service, a consensus service, and a notification service. Processes measurements, detects abnormal readings, records faults, and generates alerts across three severity levels. | C#, .NET, Distributed Systems | Not linked yet |
+| OnlyKicks — Scalable E-commerce Platform | Ongoing team project focused on developing a scalable sneaker e-commerce platform. The project specification covers product and user management, asynchronous communication, transaction processing, SneakerDrop functionality, caching, reverse proxy, and performance testing. | Implementation technologies to be documented | [GitHub](https://github.com/D4L1B0R/Only_Kicks) |
+| Machine Learning & Computer Vision | Practical neural network exercises, image classification, and object detection. Includes Banana Finder, an image processing project focused on identifying bananas through segmentation, morphological operations, contour analysis, and visual feature extraction. | Python, NumPy, OpenCV, Matplotlib | [GitHub](https://github.com/D4L1B0R/Banana_Finder) |
+| Graph Explorer Platform | Modular, plugin-based platform for parsing, exploring, and visualizing graph structures through synchronized views, including Main View, Tree View, and Bird View. Supports data-source plugins, visualization plugins, filtering, search, and interactive graph manipulation. | Python, Django, Cython | [GitHub](https://github.com/D4L1B0R/Graph_Explorer_Platform) |
+| 2D & 3D Computer Graphics | Computer graphics project focused on 2D modeling and graphical processing, with further 3D development planned. | C++, OpenCL | [GitHub](https://github.com/D4L1B0R/2D_Model) |
+| MojaUsluga — Human-Computer Interaction | UI/UX design and prototyping for a service-oriented application, focusing on interface design, usability, and user interaction workflows. | Figma, UI/UX Design | [Figma](https://www.figma.com/design/ewzYEA4tuE37LPRIVoAaMx/MojaUsluga?node-id=0-1&t=ai5gLE6ILxEXw2gv-1) |
+| SCADA & Industrial Automation | C# application focused on industrial automation, system monitoring, and SCADA-related functionality. | C#, .NET, SCADA | Not linked yet |
+| Language Learning Management System | WPF application for managing language courses, exams, and users, featuring CRUD operations, filtering, and PDF report generation. | C#, .NET, WPF, JSON | [GitHub](https://github.com/D4L1B0R/Language_Learning_Application) |
+| Relational Database Information System | Database design and implementation involving ER modeling, relational normalization, SQL schema creation, DDL and DML scripts, and realistic test queries. | SQL, Oracle SQL Developer, ER Modeling | [GitHub](https://github.com/D4L1B0R/ER_Modeling) |
+| Parallel Web Data Scraper | Concurrent web scraping application using Intel TBB, parallel downloading, HTML analysis, and thread-safe data structures. | C++17/20, Intel TBB, libcurl | [GitHub](https://github.com/D4L1B0R/Parallel_Web_Scraper) |
+| Minotaur Maze Escape | Maze-based game featuring procedural generation, navigation, pathfinding algorithms, and AI movement logic. | C++ | [GitHub](https://github.com/D4L1B0R/Maze) |
+| Festival Organization Website | Web design project focused on creating responsive web pages using frontend technologies and interface components. | HTML, CSS, JavaScript, Bootstrap | [GitHub](https://github.com/D4L1B0R/Web-design--Festival-organization) |
+| Hotel Management Application | Desktop GUI application for hotel reservations, customer management, and room availability tracking. | Java, Swing | [GitHub](https://github.com/D4L1B0R/Hotel-Management-in-Java) |
+| Cinema Reservation System | Command-line application supporting user roles, ticket reservations, and persistent data storage through file-based serialization. | Python, Pickle | [GitHub](https://github.com/D4L1B0R/Cinema) |
+| Checkers Game | Two-player board game implementing game rules, board representation, and turn-based game logic, with AI-based move selection. | Python, Minimax, Alpha-Beta Pruning | [GitHub](https://github.com/D4L1B0R/Checkers) |
+| Book Search Engine | Text-based search application using tree-based indexing and query processing for efficient lookup. | Python, Data Structures | [GitHub](https://github.com/D4L1B0R/Search-engine) |
+| Calculator | Console-based calculator supporting basic arithmetic operations and input validation. | Python | [GitHub](https://github.com/D4L1B0R/Calculator) |
+| Course Management System | Application integrating relational database operations, LINQ queries, and UML-based system modeling. | C#, SQL, LINQ, UML | Not linked yet |
 
 ---
 
@@ -114,6 +121,7 @@ The project integrated five university courses into a single software developmen
 - Skip Lists and Bloom Filters
 - Sorting and Searching Algorithms
 - Procedural Generation and Pathfinding
+- Minimax and Alpha-Beta Pruning
 - File Organization: Sequential, Serial, and Indexed Access
 - Parallel Processing and Concurrent Data Structures
 
@@ -131,10 +139,21 @@ The project integrated five university courses into a single software developmen
 
 ---
 
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=D4L1B0R&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4L1B0R&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=D4L1B0R&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
 ## Contact
 
 **Email:** dalenikolic03@gmail.com
 
 **LinkedIn:** [LinkedIn Profile](LINKEDIN_URL)
-
-**GitHub:** [GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME)
