@@ -1,6 +1,6 @@
 # Dalibor Nikolić
 
-**Software Engineering Student | Full-Stack Development | Cloud Computing | Distributed Systems**
+**Software Engineering Student | Full-Stack Development**
 
 Software Engineering and Information Technologies (SIIT) student at the Faculty of Technical Sciences, University of Novi Sad.
 
