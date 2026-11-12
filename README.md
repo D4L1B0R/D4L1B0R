@@ -169,14 +169,14 @@ The project integrated five university courses into a single software developmen
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=D4L1B0R&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
-</p>
 
-<a href="https://gitscore.live/D4L1B0R">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/D4L1B0R?style=card&theme=dark" />
-    <img src="https://gitscore.live/api/badge/D4L1B0R?style=card" alt="GitScore for D4L1B0R" />
-  </picture>
-</a>
+ <a href="https://gitscore.live/D4L1B0R">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/D4L1B0R?style=card&theme=dark" />
+     <img src="https://gitscore.live/api/badge/D4L1B0R?style=card" alt="GitScore for D4L1B0R" />
+   </picture>
+ </a>
+</p>
 
 ---
 
@@ -199,4 +199,14 @@ The project integrated five university courses into a single software developmen
 </p>
 
 ---
-*"Code is like a cat — unpredictable, independent, and occasionally breaks things."*
+
+<table>
+  <tr>
+    <td width="110">
+      <img src="https://cataas.com/cat/cute" width="100" alt="Cute cat">
+    </td>
+    <td>
+      <i><strong>"Code is like magic — it works until you try to explain why."</strong>strong></i>
+    </td>
+  </tr>
+</table>
