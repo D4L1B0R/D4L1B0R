@@ -1,20 +1,16 @@
-# Dalibor Nikolić
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:172554,100:1D4ED8&height=180&section=header&text=Dalibor%20Nikoli%C4%87&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=Software%20Engineering%20Student&descAlignY=68&descSize=17" width="100%" alt="Profile banner" />
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:142B4F,100:2563EB&height=210&section=header&text=Dalibor%20Nikoli%C4%87&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20DEVELOPMENT&descAlignY=62&descSize=14&animation=fadeIn" width="100%" alt="Dalibor Nikolic profile banner" />
 </p>
 
 <p align="center">
-  <strong>Software Engineering Student | Full-Stack Development</strong>
+  <img src="https://img.shields.io/badge/Software_Engineering-0D1117?style=flat-square&logo=github&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Full--Stack_Development-0D1117?style=flat-square&logo=stackoverflow&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/University_of_Novi_Sad-0D1117?style=flat-square&logo=academia&logoColor=58A6FF" />
 </p>
 
-<p align="center">
-  Software Engineering and Information Technologies (SIIT) student at the Faculty of Technical Sciences, University of Novi Sad.
-</p>
+Software Engineering and Information Technologies (SIIT) student at the Faculty of Technical Sciences, University of Novi Sad.
 
-<p align="center">
-  Interested in software architecture, backend development, distributed systems, cloud computing, cybersecurity, and intelligent applications. Experienced in developing applications across multiple technology stacks, working with relational databases, designing system architectures, and collaborating on team-based software projects.
-</p>
+Interested in software architecture, backend development, distributed systems, cloud computing, cybersecurity, and intelligent applications. Experienced in developing applications across multiple technology stacks, working with relational databases, designing system architectures, and collaborating on team-based software projects.
 
 ---
 
@@ -23,7 +19,7 @@
 ### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,go,js&theme=dark" alt="Python, Java, C++, C#, Go and JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,go,js&theme=dark" alt="Programming languages" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
@@ -34,26 +30,26 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="WPF" />
-  <img src="https://img.shields.io/badge/Cython-242A2E?style=for-the-badge&logo=python&logoColor=white" alt="Cython" />
-  <img src="https://img.shields.io/badge/OpenCL-ED1C24?style=for-the-badge&logo=khronos&logoColor=white" alt="OpenCL" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cython-242A2E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCL-ED1C24?style=for-the-badge&logo=khronos&logoColor=white" />
 </p>
 
 ### Databases & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws&theme=dark" alt="PostgreSQL, MySQL and AWS" />
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" />
-  <img src="https://img.shields.io/badge/H2-1E90FF?style=for-the-badge&logoColor=white" alt="H2 Database" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws&theme=dark" alt="Databases and cloud" />
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/H2-1E90FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
 </p>
 
 ### Tools & Development Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,visualstudio,vscode,androidstudio,figma,aws&theme=dark" alt="Development tools" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
-  <img src="https://img.shields.io/badge/AWS_CDK-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CDK" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,visualstudio,vscode,androidstudio,figma&theme=dark" alt="Development tools" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_CDK-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ### Core Competencies
@@ -111,7 +107,7 @@ The project integrated five university courses into a single software developmen
 
 <p align="center">
   <a href="https://github.com/D4L1B0R/GetGo_Uber-like_Application">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="GetGo GitHub repository" />
+    <img src="https://img.shields.io/badge/Explore_GetGo-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Explore GetGo repository" />
   </a>
 </p>
 
@@ -194,4 +190,8 @@ The project integrated five university courses into a single software developmen
   <a href="https://github.com/D4L1B0R">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+<p align="center">
+  <sub>Building, learning, and exploring through code.</sub>
 </p>
