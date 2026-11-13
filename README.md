@@ -69,7 +69,7 @@ Interested in software architecture, backend development, distributed systems, c
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### GetGo — Full-Stack Ride-Sharing Platform
 
@@ -111,6 +111,58 @@ The project integrated five university courses into a single software developmen
   </a>
 </p>
 
+
+### NASP2024 — Storage Engine & Advanced Data Structures
+
+An implementation-focused project developed for the Advanced Algorithms and Data Structures course, centered around building a storage system and exploring the practical application of advanced data structures and algorithms.
+
+The project brings together multiple storage-engine components, data organization techniques, caching mechanisms, and probabilistic data structures, demonstrating how these concepts can be combined into a modular system for efficient data management and processing.
+
+**System Architecture & Components**
+
+- **Programming Language:** Go.
+- **Storage Management:** MemTable structures and SSTable-based storage components.
+- **Write-Ahead Logging (WAL):** Dedicated component for maintaining a write-ahead log as part of the storage system.
+- **Block Management:** Separate module responsible for storage block-related operations.
+- **Caching:** LRU cache implementation for managing frequently accessed data.
+- **Configuration:** Configuration-driven system setup and organization.
+- **Console Interface:** Dedicated console component for interacting with the application.
+- **System Operations:** Separate module for coordinating system-level functionality.
+
+**Advanced Data Structures & Algorithms**
+
+- **Bloom Filter:** Probabilistic membership testing with space-efficient representations.
+- **Count-Min Sketch:** Approximate frequency estimation for data streams.
+- **HyperLogLog:** Probabilistic estimation of unique elements in large datasets.
+- **SimHash:** Similarity hashing for identifying potentially similar data.
+- **Merkle Tree:** Hash-tree structure for data integrity verification and efficient comparison.
+- **Token Bucket:** Rate-limiting mechanism for controlling request or operation frequency.
+- **LRU Cache:** Cache eviction strategy based on least recently used entries.
+
+**Key Technical Areas**
+
+- Storage engine design and data organization.
+- In-memory and disk-based data structures.
+- Efficient data retrieval and caching.
+- Logging and storage management.
+- Probabilistic algorithms and approximate computation.
+- Hashing techniques and data integrity.
+- Modular software architecture and component integration.
+
+**Development Focus**
+
+- Implementation of individual data structures and algorithms.
+- Separation of functionality into dedicated Go packages.
+- Integration of storage, caching, and probabilistic components.
+- Practical application of algorithmic concepts to storage-system problems.
+- Configuration and organization of a multi-component software project.
+
+<p align="center">
+  <a href="https://github.com/D4L1B0R/NASP2024">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="NASP2024 GitHub repository" />
+  </a>
+</p>
+
 ---
 
 ## Other Projects
@@ -130,6 +182,7 @@ The project integrated five university courses into a single software developmen
 | Parallel Web Data Scraper | Concurrent web scraping application using Intel TBB, parallel downloading, HTML analysis, and thread-safe data structures. | C++17/20, Intel TBB, libcurl | [GitHub](https://github.com/D4L1B0R/Parallel_Web_Scraper) |
 | Minotaur Maze Escape | Maze-based game featuring procedural generation, navigation, pathfinding algorithms, and AI movement logic. | C++ | [GitHub](https://github.com/D4L1B0R/Maze) |
 | Festival Organization Website | Web design project focused on creating responsive web pages using frontend technologies and interface components. | HTML, CSS, JavaScript, Bootstrap | [GitHub](https://github.com/D4L1B0R/Web-design--Festival-organization) |
+| SIMS – Kuvar početnik | Integrated mobile and web platform for sharing, discovering, and managing cooking recipes. Supports personalized recipe search and filtering, ingredient substitutions, dietary preferences, user-generated content, ratings, bookmarks, and recommendation features. Includes role-based access control for users, moderators, and administrators, as well as content moderation, analytics, and sponsor-oriented features. | Mobile Development, Web Development, Database Management, Role-Based Access Control | [GitHub](https://github.com/D4L1B0R/SIMS_Project) |
 | Hotel Management Application | Desktop GUI application for hotel reservations, customer management, and room availability tracking. | Java, Swing | [GitHub](https://github.com/D4L1B0R/Hotel-Management-in-Java) |
 | Cinema Reservation System | Command-line application supporting user roles, ticket reservations, and persistent data storage through file-based serialization. | Python, Pickle | [GitHub](https://github.com/D4L1B0R/Cinema) |
 | Checkers Game | Two-player board game implementing game rules, board representation, and turn-based game logic, with AI-based move selection. | Python, Minimax, Alpha-Beta Pruning | [GitHub](https://github.com/D4L1B0R/Checkers) |
